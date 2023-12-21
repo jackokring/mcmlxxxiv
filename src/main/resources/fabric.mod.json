@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "mcmlxxxiv",
+  "version": "${version}",
+  "name": "MCMLXXXIV",
+  "description": "Minecraft 1984 Mod in Fabric",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/mcmlxxxiv/icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "mcmlxxxiv.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
