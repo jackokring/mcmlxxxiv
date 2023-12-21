@@ -5,11 +5,20 @@
   "name": "MCMLXXXIV",
   "description": "Minecraft 1984 Mod in Fabric",
   "authors": [],
-  "contact": {},
+  "contact": {
+    "repo": "https://github.com/jackokring/MCMLXXXIV"
+  },
   "license": "All-Rights-Reserved",
   "icon": "assets/mcmlxxxiv/icon.png",
   "environment": "*",
-  "entrypoints": {},
+  "entrypoints": {
+    "client": [
+      "uk.co.kring.mcmlxxxiv.client.MCMLXXXIVClient"
+    ],
+    "main": [
+      "uk.co.kring.mcmlxxxiv.MCMLXXXIV"
+    ]
+  },
   "mixins": [
     "mcmlxxxiv.mixins.json"
   ],
