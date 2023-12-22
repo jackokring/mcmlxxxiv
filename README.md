@@ -9,7 +9,7 @@ further, or has got further. A few basic design decisions include:
  * No unexpected potion ingredients. All new brew recipes based on the unused potion ingredients.
  * Potion effects are not standard. Potions provide effects not just simple combinations of existing status effects.
  * No new tools. Every beginner mod seems to have a new tool level. Vanilla controls the tool progression.
- * New effect enchantments. Only new status effects have new enhacments.
+ * New effect enchantments. Only new status effects have new enhancements.
  * Custom commands when useful. There's no point in just adding a command because you can.
  * No new structures. Vanilla has this sorted already.
  * New fluids have utility. Maybe interesting, depending on features.
@@ -17,7 +17,7 @@ further, or has got further. A few basic design decisions include:
 
 ## Items
 
- * `Fabric` a fungable currency/fuel/compost. Also the item group icon. Like a leveraged `Emerald`.
+ * `Fabric` a fungible currency/fuel. Also, the item group icon. Like a leveraged `Emerald`.
    Three white `Wool` plus six `Bonemeal` in a sandwich pattern makes three `Fabric`. A unique recipe.
 
 ## Blocks
