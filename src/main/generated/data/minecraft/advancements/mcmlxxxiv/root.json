@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "got_fabric": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mcmlxxxiv:fabric"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": {
+      "text": "You're on the road to greatness"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "mcmlxxxiv:fabric"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Das Capital"
+    }
+  },
+  "requirements": [
+    [
+      "got_fabric"
+    ]
+  ]
+}

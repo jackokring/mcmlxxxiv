@@ -12,6 +12,9 @@
   "icon": "assets/mcmlxxxiv/icon.png",
   "environment": "*",
   "entrypoints": {
+    "fabric-datagen": [
+      "uk.co.kring.mcmlxxxiv.ModDataGenerator"
+    ],
     "client": [
       "uk.co.kring.mcmlxxxiv.client.MCMLXXXIVClient"
     ],

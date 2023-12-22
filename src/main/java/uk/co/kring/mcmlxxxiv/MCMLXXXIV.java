@@ -47,6 +47,7 @@ public class MCMLXXXIV implements ModInitializer {
      */
     @Override
     public void onInitialize() {
-		FABRIC = itemReg("fabric", 7, 0.0f);// first item is group icon
+		// fuel ticks and compost chance
+		FABRIC = itemReg("fabric", 369, 0.0f);// first item is group icon
     }
 }
