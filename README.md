@@ -19,6 +19,7 @@ further, or has got further. A few basic design decisions include:
 
  * `Fabric` a fungible currency/fuel. Also, the item group icon. Like a leveraged `Emerald`.
    Three white `Wool` plus six `Bonemeal` in a sandwich pattern makes three `Fabric`. A unique recipe.
+ * `Elon` you'll understand in the end. You might need an `Block of Emerald`.
 
 ## Blocks
 
