@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "mcmlxxxiv:luster"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_block",
+    "count": 1
+  }
+}

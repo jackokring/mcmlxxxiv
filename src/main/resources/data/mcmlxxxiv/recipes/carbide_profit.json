@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "mcmlxxxiv:carbide"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_block",
+    "count": 1
+  }
+}

@@ -17,9 +17,12 @@ further, or has got further. A few basic design decisions include:
 
 ## Items
 
- * `Fabric` a fungible currency/fuel. Also, the item group icon. Like a leveraged `Emerald`.
+ * `Fabric` a fungible currency/fuel. Also, the item group icon.
    Three white `Wool` plus six `Bonemeal` in a sandwich pattern makes three `Fabric`. A unique recipe.
- * `Elon` you'll understand in the end. You might need an `Block of Emerald`.
+ * `Crumb` you might need a `Block of Iron`. "Oxygene." -- Jean-Michel Jarre
+ * `Luster` you might need a `Block of Gold`. "Fool's Gold." -- Stone Roses
+ * `Elon` you'll understand in the end. You might need a `Block of Emerald`. "Money! It's a gas." -- Pink Floyd
+ * `Carbide` you might need a `Block of Diamond`. "Hackney Diamonds." -- Rolling Stones
 
 ## Blocks
 

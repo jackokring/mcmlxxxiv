@@ -9,7 +9,13 @@ public class MCMLXXXIVClient implements ClientModInitializer {
      */
     @Override
     public void onInitializeClient() {
+    	// the color of Crumb
+    	ColorProviderRegistry.ITEM.register((stack, tintIndex) -> 0xcb8c8c, MCMLXXXIV.CRUMB);
+    	// the color of Luster
+    	ColorProviderRegistry.ITEM.register((stack, tintIndex) -> 0xcbcb8c, MCMLXXXIV.LUSTER);
         // the color of Elon
         ColorProviderRegistry.ITEM.register((stack, tintIndex) -> 0x8acb8d, MCMLXXXIV.ELON);
+        // the color of Carbide
+        ColorProviderRegistry.ITEM.register((stack, tintIndex) -> 0x8c8ccb, MCMLXXXIV.CARBIDE);
     }
 }

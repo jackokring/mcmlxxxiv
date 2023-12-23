@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "mcmlxxxiv",
-  "version": "${version}",
+  "version": "${mod_version}",
   "name": "MCMLXXXIV",
   "description": "Minecraft 1984 Mod in Fabric",
   "authors": [ "Simon Jackson" ],
