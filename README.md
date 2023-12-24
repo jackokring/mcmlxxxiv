@@ -17,7 +17,7 @@ further, or has got further. A few basic design decisions include:
 
 ## Items
 
-The currency items are built from the intermediate `Fabric` and require blocks which act as base blocks for
+The currency items are built from `Fabric` and may require blocks which act as base blocks for
 `Becon` blocks. Each behaves with a different cash acceleration and transaction party profit bias.
 
  * `Fabric` a fungible currency medium/fuel. Also, the item group icon.
@@ -28,11 +28,13 @@ The currency items are built from the intermediate `Fabric` and require blocks w
  * `Carbide` you might need a `Block of Diamond`. "Hackney Diamonds." -- Rolling Stones
  * `Never` you might need a `Block of Netherite`. "Never Gonna Give You Up." -- Rick Astley
 
-The five currencies are tagged as `mcmlxxxiv:currency` for module dependencies.
+The six currencies are tagged as `mcmlxxxiv:currency` for module dependencies. The latter five have backed value
+but do not combine into blocks.
 
 ## Blocks
 
-
+ * `Block of Fabric` for placing currency reserves in the world.
+ * `Block of Blocks of Fabric` for 4096 `Fabric` per item stack.
 
 ## Mobs
 

@@ -5,5 +5,9 @@
 	"item.mcmlxxxiv.luster": "Luster",
 	"item.mcmlxxxiv.elon": "Elon",
 	"item.mcmlxxxiv.carbide": "Carbide",
-	"item.mcmlxxxiv.never": "Never"
+	"item.mcmlxxxiv.never": "Never",
+	
+	"advancement.mcmlxxxiv.das_capital_title": "Das Capital",
+	"advancement.mcmlxxxiv.das_capital_desc": "You're on the road to greatness"
+	
 }
