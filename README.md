@@ -20,13 +20,15 @@ further, or has got further. A few basic design decisions include:
 The currency items are built from the intermediate `Fabric` and require blocks which act as base blocks for
 `Becon` blocks. Each behaves with a different cash acceleration and transaction party profit bias.
 
- * `Fabric` a fungible currency/fuel. Also, the item group icon.
+ * `Fabric` a fungible currency medium/fuel. Also, the item group icon.
    Three white `Wool` plus six `Bonemeal` in a sandwich pattern makes three `Fabric`. A unique recipe.
  * `Crumb` you might need a `Block of Iron`. "Oxygene." -- Jean-Michel Jarre
  * `Luster` you might need a `Block of Gold`. "Fool's Gold." -- Stone Roses
  * `Elon` you'll understand in the end. You might need a `Block of Emerald`. "Money! It's a gas." -- Pink Floyd
  * `Carbide` you might need a `Block of Diamond`. "Hackney Diamonds." -- Rolling Stones
  * `Never` you might need a `Block of Netherite`. "Never Gonna Give You Up." -- Rick Astley
+
+The five currencies are tagged as `mcmlxxxiv:currency` for module dependencies.
 
 ## Blocks
 
