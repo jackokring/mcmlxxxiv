@@ -17,5 +17,7 @@ public class MCMLXXXIVClient implements ClientModInitializer {
         ColorProviderRegistry.ITEM.register((stack, tintIndex) -> 0x8acb8d, MCMLXXXIV.ELON);
         // the color of Carbide
         ColorProviderRegistry.ITEM.register((stack, tintIndex) -> 0x8c8ccb, MCMLXXXIV.CARBIDE);
+        // the color of Never
+        ColorProviderRegistry.ITEM.register((stack, tintIndex) -> 0x31292a, MCMLXXXIV.NEVER);
     }
 }

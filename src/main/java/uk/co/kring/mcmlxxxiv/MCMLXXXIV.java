@@ -21,6 +21,7 @@ public class MCMLXXXIV implements ModInitializer {
 	public static Item LUSTER;
 	public static Item ELON;
 	public static Item CARBIDE;
+	public static Item NEVER;
 	
 	private static ItemGroup ITEM_GROUP;
 
@@ -51,11 +52,12 @@ public class MCMLXXXIV implements ModInitializer {
      */
     @Override
     public void onInitialize() {
-		// fuel ticks and compost chance
+		// fuel ticks and compost chance for currency items
 		FABRIC = itemReg("fabric", 369, 0.0f);// first item is group icon
 		CRUMB = itemReg("crumb", 501, 0.0f);
 		LUSTER = itemReg("luster", 501, 0.0f);
 		ELON = itemReg("elon", 501, 0.0f);
 		CARBIDE = itemReg("carbide", 501, 0.0f);
+		NEVER = itemReg("never", 501, 0.0f);
     }
 }

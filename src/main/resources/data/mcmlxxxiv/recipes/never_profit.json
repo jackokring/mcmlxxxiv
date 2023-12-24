@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "mcmlxxxiv:never"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_block",
+    "count": 3
+  }
+}
